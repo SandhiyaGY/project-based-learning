@@ -1,0 +1,33 @@
+body{
+    font-size: larger;
+    background-color:#B0E0E6;
+    background-image: url(images/girl.png);
+    background-position: bottom right;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:300px;
+    font-family:cursive;
+}
+.para{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    text-align: center;
+}
+#intro{
+    color:blueviolet;
+    text-align: center;
+}
+#bor{
+    border-style: double;
+    border-color:black;
+    border-width: thin;
+
+}
+a{
+    text-decoration: none;
+}
+b{
+    color:#7B68EE;
+}
+p{
+    text-align: justify;
+}
